@@ -33,3 +33,6 @@ cat ${T_DIR}/test-plan.jtl
 
 echo "==== HTML Test Report ===="
 echo "See HTML test report in ${R_DIR}/index.html"
+
+echo "======= Just write the content of the report to console ========="
+cat ${R_DIR}/index.html
